@@ -7,8 +7,8 @@ Para rodar este projeto é necessário instalar a pasta node_modules via comando
 
 Você pode visualizá-lo no link: https://weather-app-by-carol-frazao.vercel.app/
 
-<img src="/public/images/weather-cold.jpg">
-<img src="/public/images/weather-warm.jpg">
-<img src="/public/images/location-not-found.jpg">
+![Clima frio](https://ibb.co/cQ8GDm3)
+![Clima quente](https://ibb.co/yWLN8XG)
+![Localização não encontrada](https://ibb.co/rwvnzXj)
 
 
