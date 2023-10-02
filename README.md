@@ -5,7 +5,7 @@ A consulta é feita via API da Open Weather, disponível em https://openweatherm
 
 Para rodar este projeto é necessário instalar a pasta node_modules via comando 'npm install' e rodar com o comando 'npm start'.
 
-Você pode visualizá-lo no link: https://weather-app-by-carol-frazao.vercel.app/
+Você pode visualizá-lo no link: https://weather-app-by-carol.vercel.app/
 
 ![Clima frio](https://i.ibb.co/GRMKchp/weather-cold.jpg)
 ![Clima quente](https://i.ibb.co/XSmWzbN/weather-warm.jpg)
